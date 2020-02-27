@@ -11,3 +11,4 @@ class Dog
     @breed = husky 
   end 
   
+  def bread 
