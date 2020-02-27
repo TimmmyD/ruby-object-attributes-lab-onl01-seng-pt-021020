@@ -8,7 +8,7 @@ class Dog
     @name
   end 
   def bread=(husky)
-    @breed = husky 
+    @bread = husky 
   end 
   
   def bread 
