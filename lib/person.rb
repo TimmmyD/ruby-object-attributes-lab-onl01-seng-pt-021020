@@ -7,4 +7,5 @@ class Person
     @name
   end
   
-  
+  def job=(mailman)
+    
