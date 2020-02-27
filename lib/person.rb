@@ -9,4 +9,6 @@ class Person
   
   def job=(mailman)
     @job = mailman
-    
+  end
+  
+  
