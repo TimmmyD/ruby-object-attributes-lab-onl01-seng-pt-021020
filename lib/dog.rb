@@ -9,3 +9,5 @@ class Dog
   end 
   def breed=(husky)
     @breed = husky 
+  end 
+  
