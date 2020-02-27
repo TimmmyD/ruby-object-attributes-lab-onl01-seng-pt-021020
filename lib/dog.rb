@@ -4,4 +4,5 @@ class Dog
     @name = chowder
   end
   
-  
+  def name 
+    @name 
