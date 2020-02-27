@@ -12,3 +12,4 @@ class Dog
   end 
   
   def bread 
+    @bread 
