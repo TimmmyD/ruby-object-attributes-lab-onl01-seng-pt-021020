@@ -13,3 +13,6 @@ class Dog
   
   def bread 
     @bread 
+  end 
+end 
+
