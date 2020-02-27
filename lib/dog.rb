@@ -8,12 +8,11 @@ class Dog
     @name
   end 
   
-  def bread=(husky)
-    @bread = husky 
+  def breed=(husky)
+    @breed = husky 
   end 
   
-  def bread 
-    @bread 
+  def breed 
+    @breed 
   end 
 end 
-
