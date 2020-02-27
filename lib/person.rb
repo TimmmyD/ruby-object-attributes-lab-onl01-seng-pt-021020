@@ -11,4 +11,7 @@ class Person
     @job = mailman
   end
   
-  
+  def job
+    @job
+  end 
+end
